@@ -1,0 +1,12 @@
+sort1 uses: Bubble sort
+
+How do you know?: In sorted.txt. sort1 is the fastest one, which means the swap counter didn't add any numbers and the program will exit in the first loop. in reverse it have a long time.
+
+sort2 uses: Merge sort
+
+How do you know?: Because this is the fastest sorting.  sort2 vs sort3 sort2 have the fastest run time.
+
+sort3 uses: Selection sort
+
+How do you know?: Most of the time it will run at the same speed, because it will loop at n time even if the list is sorted or not. sort2 vs sort3 sort3 have the slowest run time.
+
